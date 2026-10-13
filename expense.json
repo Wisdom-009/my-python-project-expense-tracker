@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "Hair",
+        "Amount": 5000.0,
+        "Category": "Fashion"
+    },
+    {
+        "Name": "Rice",
+        "Amount": 6000.0,
+        "Category": "Food"
+    }
+]
